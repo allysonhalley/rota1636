@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fab540bd-2170-4de3-b921-35c9e1f96a39" name="Default" comment="" />
+    <list default="true" id="fab540bd-2170-4de3-b921-35c9e1f96a39" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/callout.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/portfolio-4.jpg" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -552,7 +559,7 @@
       <workItem from="1487089866883" duration="7900000" />
       <workItem from="1487100617696" duration="5000" />
       <workItem from="1487101212642" duration="1424000" />
-      <workItem from="1487161330818" duration="8915000" />
+      <workItem from="1487161330818" duration="9344000" />
     </task>
     <task id="LOCAL-00001" summary="Customização do site pra colocar no ar. V1.0">
       <created>1487170118173</created>
@@ -572,7 +579,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20048000" />
+    <option name="totallyTimeSpent" value="20477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
