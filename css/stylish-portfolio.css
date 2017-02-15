@@ -154,8 +154,8 @@ hr.small {
     display: table;
     position: relative;
     width: 100%;
-    height: 100%;
-    background: url(../img/bg.jpg) no-repeat center center scroll;
+    height: 75%;
+    background: url(../img/rota1636/logo_rota1636_back.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -165,17 +165,33 @@ hr.small {
 /* About */
 
 .about {
+    display: table;
+    width: 100%;
+    height:100%;
+    color: black;
+    background: url(../img/rota1636/viagem01.jpeg) no-repeat top center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/* Motivation */
+
+.motivations {
     padding: 50px 0;
 }
 
-/* Services */
+.motivation-item {
+    display: table;
+    width: 100%;
+    height:100%;
+    color: gray;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 
-.services {
-    padding: 50px 0;
-}
-
-.service-item {
-    margin-bottom: 30px;
 }
 
 /* Callout */
@@ -183,9 +199,9 @@ hr.small {
 .callout {
     display: table;
     width: 100%;
-    height: 400px;
-    color: #fff;
-    background: url(../img/callout.jpg) no-repeat center center scroll;
+    height: 90%;
+    color: white;
+    background: url(../img/rota1636/start.jpeg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -195,6 +211,7 @@ hr.small {
 /* Portfolio */
 
 .portfolio {
+    background: gray;
     padding: 50px 0;
 }
 
